@@ -19,5 +19,5 @@ git push
 git pull
 
 inosiate Git GUI with command:
-git GUI&
-gitk& 
+git GUI& /open GUI interface
+gitk& /history of comments
