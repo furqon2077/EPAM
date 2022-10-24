@@ -17,3 +17,7 @@ git commit -m ""
 git log
 git push
 git pull
+
+inosiate Git GUI with command:
+git GUI&
+gitk& 
