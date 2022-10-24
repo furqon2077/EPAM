@@ -1,15 +1,19 @@
 You can download git here: http://git-scm.com/downloads
 
 Install Git with the default settings.
-
 Generating a pair of ssh keys:
 
      ssh-keygen -t rsa –C “vitali_shulha@epam.com"
 
-The public key (id_rsa) should be sent to the repository's owner to obtain work rights. Or you can upload the key to profile settings in Bitbucket / GitHub / GitLab.
-
+The public key (id_rsa) should be sent to the repository's owner to obtain work rights. 
+Or you can upload the key to profile settings in Bitbucket / GitHub / GitLab.
 Username and email settings:
-
      git config --global user.name “Vitali Shulha“
-
      git config --global user.email “vitali_Shulha@epam.com"
+     
+Commands:
+git add
+git commit -m ""
+git log
+git push
+git pull
